@@ -94,7 +94,7 @@ print(preds)
 
 ## Results
 
-The model achieves a certain accuracy on the test data, which can be adjusted based on model parameters.
+The model achieves a 82% accuracy on the test data, which can be adjusted based on model parameters.
 
 ## Contributions
 
