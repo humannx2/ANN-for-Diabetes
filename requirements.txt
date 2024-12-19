@@ -4,3 +4,4 @@ matplotlib
 pandas
 ipynb
 ipykernel
+scikit-learn
